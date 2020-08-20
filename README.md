@@ -8,7 +8,7 @@ between 0 and 1, Uses a Machine Learning model from Spacy.
 sudo docker-compose build  
 sudo docker up   
 #### Windows
-docker-compose build
+docker-compose build  
 docker-compose up
 
 default url and posrt is http://0.0.0.0:5000   
